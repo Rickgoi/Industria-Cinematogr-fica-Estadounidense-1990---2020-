@@ -1,4 +1,4 @@
-# 🎬 Movie Industry Strategy: 30 Years of Financial Insights (1990 - 2020)
+# 🎬 Análisis de Inversión y ROI en la Industria Cinematográfica (1990-2020)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg) 
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
