@@ -31,4 +31,4 @@ Este proyecto analiza el ecosistema financiero de la industria cinematográfica 
 3. Ejecutar: `jupyter notebook notebooks/Analisis_Cinematografico.ipynb`
 
 ---
-📫 **Contacto:** (https://www.linkedin.com/in/ricardo-goitia-659a5895/)
+📫 **Contacto:** (https://www.linkedin.com/in/ricardo-goitia-659a5895/) - goitiaricardo@gmail.com
